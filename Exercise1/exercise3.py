@@ -1,6 +1,6 @@
 # File name: exercise3.py
 # Author: Steve Hommy
-# Description: Listing items
+# Description: Sorting list in ascending order
 
 
 # Asking user for range of items that will be on list
