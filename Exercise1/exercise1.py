@@ -2,5 +2,5 @@
 # Author: Steve Hommy
 # Description: Prints out Hello
 
-# Prints outs Hello
+# Prints out Hello
 print("Hello")
