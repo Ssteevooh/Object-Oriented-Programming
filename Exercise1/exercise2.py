@@ -1,4 +1,4 @@
-# File name: exercise1.py
+# File name: exercise2.py
 # Author: Steve Hommy
 # Description: Listing items
 
