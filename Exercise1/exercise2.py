@@ -27,5 +27,5 @@ print(word_list)
 
 # Filling the integer list with randomly generated numbers
 for i in range(len(number_list)):
-    number_list[i] = random.randint(0,100)
+    number_list[i] = random.randint(0, 100)
 print(number_list)
