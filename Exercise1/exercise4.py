@@ -4,7 +4,7 @@
 
 
 # Defining function
-def until_zero():
+def negative_integers():
     total_number = 0
     # While loop running until the break statement executes
     while True:
@@ -25,4 +25,4 @@ def until_zero():
 
 
 # Calling the function
-until_zero()
+negative_integers()
