@@ -1,6 +1,6 @@
-# File name: exercise1.py
+# File name: exercise3.py
 # Author: Steve Hommy
-# Description: Pseudocode where user inputs the exercise points and program prints out the grade.
+# Description: Pseudocode where user inputs the exercise points and program prints out the grade
 
 
 # User inputs points
