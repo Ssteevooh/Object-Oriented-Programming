@@ -5,7 +5,7 @@
 
 # User inputs points
 points = int(input("Insert maximum points: "))
-# Printing out grades 
+# Printing out grade 
 if points < 60:
     print("Grade 0")
 elif points == 60:
